@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 3806226005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3134f3ffc9f5fc1968ff50069d1337b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ffd48c6713cd04766010f6b176bbe16
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7b540654ceed7de1e6c540a5a14b8b00
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LoxodonFramework/BundleExamples/Maps/Variants/Assets-HD/Logo.png
+- Assets/LoxodonFramework/BundleExamples/Maps/Variants/Assets-HD/Texture.png
+- Assets/LoxodonFramework/BundleExamples/Maps/Variants/Assets-HD/Material.mat
+Dependencies: []

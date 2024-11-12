@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 435933707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0625aef5690d06f90c87668a2b420da1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce523b631a8c9e3708aad88dabc515ed
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 87836f26838730a7e16bc6c6a8d67ac1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LoxodonFramework/BundleExamples/Encrypted/Tanks/Prefabs/Tank.prefab
+- Assets/LoxodonFramework/BundleExamples/Encrypted/Tanks/Prefabs/Terrain.prefab
+Dependencies:
+- D:/unity projects/Vr Chat/AssetBundles/BundleScenes/encrypted/tanks/models

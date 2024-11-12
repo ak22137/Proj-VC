@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 1413998311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f929a6dfdcbb4cd8f06c1b585588d68f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa5aaa757ab702b02a40a9d50babe146
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4524d2838d71656cde8ca2baff6cc288
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LoxodonFramework/BundleExamples/Models/Plane/Materials/Plane.mat
+- Assets/LoxodonFramework/BundleExamples/Models/Plane/Plane.prefab
+Dependencies: []
